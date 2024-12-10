@@ -11,21 +11,20 @@ String
 - Used for a sequence of characters - letters, numbers, symbols
 - Represent text 
 - In python, written in between quotation marks - " "
-Example:
-"This is an example of a string!"
+Example - "This is an example of a string!"
 
 Integer 
 - Whole number that can be positive or negative
 - Used for mathematical operations - stored as numeric data
-Examples: 5,10,11
+Example - 5
 
 Float 
 - Decimal numbers
 - Used when working with fractions or more precise measurements
-Example: 7.898976
+Example - 7.898976
 
 Boolean 
 - Value is always true or false
 - Represent logical statements 
-Example: is_snowing = True
+Example - is_snowing = True
 ---
