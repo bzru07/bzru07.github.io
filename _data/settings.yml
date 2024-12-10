@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Python Basics',  url: 'facts'}
+- {name: 'Python Basics',  url: 'data-types'}
 - {name: 'Iteration', url: 'resources'}
 - {name: 'Data Structures',       url: 'sample-posts'}
 - {name: 'Structured Data',      url: 'documentation'}
